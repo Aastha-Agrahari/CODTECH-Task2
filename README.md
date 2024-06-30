@@ -14,3 +14,6 @@ Please feel free to compute your BMI using the calculator (Body Mass Index).
 # Outputs
 Screenshort (1)
 ![Screenshot_2024-06-30-15-03-27-05_e12af2525c39896d4e449718a188bded](https://github.com/Aastha-Agrahari/CODTECH-Task2/assets/125497845/d4ceab99-1e3a-46d4-8ea8-708fd2a0f431)
+
+Screenshort (2)
+![Screenshot_2024-06-30-15-03-18-39_e12af2525c39896d4e449718a188bded](https://github.com/Aastha-Agrahari/CODTECH-Task2/assets/125497845/87336597-b77f-4db7-8b85-05974e0b2a69)
