@@ -1,6 +1,6 @@
 # BMI Calculator App
 A convenient BMI (Body Mass Index) calculator that is compatible with Android devices.🖥
-Please feel free to compute your BMI using the calculator (Body Mass Index).
+- Please feel free to compute your BMI using the calculator (Body Mass Index).
 
 # Featurs
 - Input fields for height and weight.
