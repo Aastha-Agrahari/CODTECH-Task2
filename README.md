@@ -1,3 +1,10 @@
+# Detail
+- Name:AASTHA GUPTA
+- Company:CODTECH IT SOLUTIONS
+- Id:CT08DS2952
+- Domain:Android Developement
+- Duration: June to July 2024
+- Mentor:N.Santhosh Kumar
 # BMI Calculator App
 A convenient BMI (Body Mass Index) calculator that is compatible with Android devices.🖥
 - Please feel free to compute your BMI using the calculator (Body Mass Index).
